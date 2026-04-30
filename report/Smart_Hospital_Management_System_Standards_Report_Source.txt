@@ -1,0 +1,70 @@
+Title Page - Smart Hospital Management System
+Certificate
+Declaration
+Acknowledgement
+Abstract
+Table of Contents I
+Table of Contents II
+List of Figures
+List of Tables
+Chapter 1 Introduction
+1A Background
+1B Importance
+1C Problem Statement
+1D Objectives
+1E Scope
+Chapter 2 Literature Review
+2A Research Papers
+2B Existing Work
+2C Comparative Analysis
+2D Research Gap
+2E Literature Synthesis
+Chapter 3 System Analysis
+3A Existing System
+3B Limitations
+3C Proposed System
+3D Feasibility
+3E Input Output
+3F Functional Requirements
+3G Non Functional Requirements
+3H Software Engineering Paradigm
+3I Workflow
+Chapter 4 System Design
+4A System Architecture Diagram
+4B Module Design
+4C DFD Level 0
+4D DFD Level 1 Patient
+4E DFD Level 1 Admin Doctor
+4F Use Case Diagram
+4G Sequence Diagram
+4H ER Diagram
+4I Authentication Flowchart
+4J Order Processing Flowchart
+Chapter 5 Methodology
+5A Step by Step
+5B Algorithms and Techniques
+5C Mathematical Model
+5D Workflow Explanation
+Chapter 6 Implementation
+6A Tools and Technologies
+6B Hardware Requirements
+6C Software and Dummy Data
+6D Coding Approach and MVC
+6E Backend APIs
+6F Frontend Screens
+6G Security and Validation
+Chapter 7 Results
+7A Testing and Cases
+7B Module Outcomes
+7C Performance and Comparison
+7D Interpretation
+Chapter 8 Advantages and Limitations
+8A Advantages
+8B Limitations
+Chapter 9 Conclusion
+Chapter 10 Future Scope
+References I
+References II
+Appendix A Endpoints
+Appendix B Dummy Data
+Appendix C Source Organization
