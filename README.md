@@ -30,7 +30,8 @@ backend/
 frontend/
 README.md
 ```
-
+## Requires 
+* MongoDB Community Server installed for installation steps [visit](https://www.mongodb.com/try/download/community).
 ## Backend Setup
 
 1. Open `backend/.env.example` and copy it to `.env`
