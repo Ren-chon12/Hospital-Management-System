@@ -16,8 +16,6 @@ Simple full stack MERN project using:
 - Patient and appointment management
 - Search and filter system
 - Medical order processing with cart and COD
-- Admin-user connectivity through shared dashboards and chat
-- File uploads
 - Geo-location map integration
 - Real-time chat with Socket.io
 - Notification system
